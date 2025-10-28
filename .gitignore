@@ -1,9 +1,5 @@
-**/__pycache__/
-**/*.py[cod]
-**/*.egg-info/
-**/.env
-**/.venv/
-**/.streamlit/
-**/.DS_Store
-**/riskranger_report.pdf
-**/*.tmp
+.venv/
+__pycache__/
+riskranger_report.pdf
+.DS_Store
+.streamlit/
